@@ -1,0 +1,41 @@
+---
+import PrivacyTerms from '@/components/PrivacyTerms';
+import { sanitizeHTML } from '@/lib/utils';
+import Layout from '../layouts/Layout.astro';
+
+const qs = Astro.url.searchParams;
+
+import { i18n } from '../lib/i18n/i18n';
+const { t } = await i18n();
+const privacies = t('privacies', { returnObjects: true });
+
+
+---
+<Layout titlePrefix='Privacies'>
+    <div class='capitalize mt-10 mb-10'>
+     <div class="header flex items-center mb-24">
+            <button onclick="window.location.href='/'" class="back-icon mr-4" aria-label="Go back">
+                <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="currentColor"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    height="24"
+                >
+                    <path d="M15.7 19.3a1 1 0 0 1-1.4 0l-6-6a1 1 0 0 1 0-1.4l6-6a1 1 0 1 1 1.4 1.4L10.4 12l5.3 5.3a1 1 0 0 1 0 1.4z" />
+                </svg>
+            </button>
+            <h1 class="header-title">Privacy Policy</h1>
+        </div>
+        
+
+
+  <PrivacyTerms
+            client:idle
+            id='privacy'
+            title={sanitizeHTML(t(`privacyTitle`))}
+            lastUpdate={t('privacyLastUpdatedDate')}
+            obj={privacies}
+        />
+        </div>
+</Layout>

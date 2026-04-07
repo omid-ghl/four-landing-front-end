@@ -1,0 +1,24 @@
+---
+import { API_PREFIX, API_URL, GOOGLE_RECAPTCHA_SITEKEY as GOOGLE_RECAPTCHA_SITEKEY_ENV } from '../lib/config';
+import { i18n } from '../lib/i18n/i18n';
+import Form from './Form';
+
+// api mess
+const { t } = await i18n();
+const form: any = {
+    email: { title: t('contacts.form.email.title'), placeholder: t('contacts.form.email.placeholder') },
+    nickname: {
+        title: t('contacts.form.nickname.title'),
+        placeholder: t('contacts.form.nickname.placeholder'),
+    },
+    description: {
+        title: t('contacts.form.description.title'),
+        placeholder: t('contacts.form.description.placeholder'),
+    },
+    submit: { title: t('contacts.form.submit.title') },
+};
+const GOOGLE_RECAPTCHA_SITEKEY = GOOGLE_RECAPTCHA_SITEKEY_ENV;
+const baseUrl = API_URL + API_PREFIX;
+---
+
+<Form form={form} GOOGLE_RECAPTCHA_SITEKEY={GOOGLE_RECAPTCHA_SITEKEY} baseUrl={baseUrl} client:only='react' />

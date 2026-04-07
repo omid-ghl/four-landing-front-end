@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "astro",
+        "astrojs",
+        "clsx",
+        "extralight",
+        "playform",
+        "recaptcha",
+        "sitekey",
+        "Swiper",
+        "tailwindcss",
+        "tseslint",
+        "four"
+    ],
+    "conventionalCommits.scopes": ["nav", "tweak"]
+}

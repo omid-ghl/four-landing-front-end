@@ -1,0 +1,87 @@
+---
+import { ENV } from '../lib/config';
+import { ViewTransitions } from 'astro:transitions';
+import './global.css';
+import Background from '../components/Background.astro';
+import { i18n } from '../lib/i18n/i18n';
+import { isProd } from '../lib/utils';
+const { t } = await i18n();
+const appName = t('app_name');
+
+interface Props {
+    titlePrefix?: string;
+    description?: string;
+    canonical?: string;
+    ogImage?: string;
+    shouldIndex?: boolean;
+}
+
+let { titlePrefix, description, canonical, ogImage, shouldIndex } = Astro.props;
+
+if (typeof titlePrefix === 'undefined') titlePrefix = '';
+if (typeof shouldIndex === 'undefined') shouldIndex = true;
+
+const title = appName + ' | ' + titlePrefix.trim();
+
+// set favicon based on env
+let favicon = '/favicon';
+switch (ENV) {
+    case 'development':
+        favicon += '-dev';
+        break;
+
+    case 'staging':
+        favicon += '-staging';
+        break;
+
+    default:
+        break;
+}
+favicon += '.png';
+---
+
+<!doctype html>
+<html lang='en' dir='ltr'>
+    <>
+        <!-- only index on search engines of running on prod -->
+        <meta name='robots' content={isProd() && shouldIndex ? 'index, follow' : 'noindex, nofollow, noarchive'} />
+    
+        <!-- only link to sitemap on prod -->
+        {isProd() && <link rel='sitemap' href='/sitemap-index.xml' />}
+
+        <meta charset='UTF-8' />
+        <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+        <link rel='icon' type='image/png' href={favicon} />
+        <link rel='apple-touch-icon' href={favicon} />
+        <meta name='generator' content={Astro.generator} />
+        <meta name='theme-color' content='#ffffff' />
+
+        <title>{title}</title>
+        <meta name='description' content={description} />
+        {canonical && <link rel='canonical' href={canonical} />}
+        <meta property='og:title' content={title} />
+        <meta property='og:description' content={description} />
+        {ogImage && <meta property='og:image' content={ogImage} />}
+        {canonical && <meta property='og:url' content={canonical} />}
+        <meta property='og:type' content='website' />
+        {ogImage && <meta name='twitter:card' content={ogImage} />}
+        <meta name='twitter:title' content={title} />
+        <meta name='twitter:description' content={description} />
+        {ogImage && <meta name='twitter:image' content={ogImage} />}
+        {canonical && <meta name='twitter:url' content={canonical} />}
+        <head>
+          <meta name="google-site-verification" content="MNiQkkgUi1QsyfhlXQhcGHE-CphW7_fLVJFEnVFzD6k" />
+        </head>
+        <ViewTransitions />
+    </>
+    <body>
+        <Background />
+        <div id='container' class='px-8 md:px-16 lg:16 2xl:px-96'>
+            <slot />
+        </div>
+        <script>
+            import packageJson from '../../package.json';
+            console.log(`v${packageJson.version}`);
+        </script>
+    </body>
+</html>

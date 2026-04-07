@@ -1,0 +1,37 @@
+---
+interface Props {
+    icon: string;
+    iconAlt: string;
+    device: string;
+    platform: string;
+    badge: string;
+    badgeAlt: string;
+    link: string;
+    active: boolean;
+}
+
+const { icon, iconAlt, device, platform, link, badge, badgeAlt, active } = Astro.props;
+---
+
+<div class='flex flex-col gap-5 bg-neutral-100 p-5 rounded-sm w-full'>
+    <div class='flex gap-4'>
+        <div><img class='w-12 h-auto' src={icon} alt={iconAlt} /></div>
+        <div class='uppercase'>
+            <div class='text-neutral-600'>{device}</div>
+            <div class='text-neutral-900 font-bold text-3xl'>{platform}</div>
+        </div>
+    </div>
+    <div class='flex justify-end'>
+        {
+            active ? (
+                <a target='_blank' rel='noopener' href={link}>
+                    <img class='w-36' src={badge} alt={badgeAlt} />
+                </a>
+            ) : (
+                <button class='bg-neutral-300 text-neutral-600 py-2 px-4 uppercase rounded' disabled>
+                    Coming Soon
+                </button>
+            )
+        }
+    </div>
+</div>

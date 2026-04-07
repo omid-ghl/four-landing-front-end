@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.four.app",
+            "sha256_cert_fingerprints": [
+                "68:BB:27:5D:7C:5A:1B:93:2D:60:DF:AD:D2:37:9A:9B:D6:87:B2:F1:17:96:FE:7B:20:74:35:6F:CB:6F:DD:3C"
+            ]
+        }
+    }
+]

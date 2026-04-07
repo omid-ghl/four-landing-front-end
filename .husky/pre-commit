@@ -1,0 +1,1 @@
+npm run incrementVersion && npm run format && git add . && npm run astro check

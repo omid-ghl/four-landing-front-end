@@ -1,0 +1,11 @@
+---
+interface Props {
+    id: string;
+}
+
+const { id } = Astro.props;
+---
+
+<section id={id} class='py-28 md:py-[10rem] lg:py-48 flex flex-col justify-center items-center lg:min-h-dvh'>
+    <slot />
+</section>
