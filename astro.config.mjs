@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import react from '@astrojs/react';
-import node from '@astrojs/node';
+import netlify from '@astrojs/netlify';
 import sitemap from '@astrojs/sitemap';
 import playformCompress from '@playform/compress';
 
@@ -17,7 +17,5 @@ export default defineConfig({
         playformCompress(),
     ],
     output: 'server',
-    adapter: node({
-        mode: 'standalone',
-    }),
+    adapter: netlify(),
 });
