@@ -465,79 +465,79 @@
     "faqTitle": "<extralight>frequently</extralight> <normal>asked</normal> <black>questions</black>",
     "faqs": [
         {
-            "title": "How Does it Work?",
-            "description": "Four lets you create cards for events, specific needs, or appointments, including details like time, location, and the number of participants needed. Others can view these cards and send requests to join. The person who created the card reviews the requests and picks who they want. Once confirmed, the selected participants can chat to coordinate and agree on the details before joining the event or appointment."
+            "title": "How does Four work?",
+            "description": "To get started, users can create an account using their email and complete their profile information. Once logged in, users gain full access to both the social and market sections of the platform. The market section (including charts and token data) can be viewed without logging in, but publishing posts or interacting with the social features requires an active account and login."
         },
         {
-            "title": "How do I create a card for an event or appointment?",
-            "description": "Creating a card is simple! On the main screen, select the New Request option. You’ll need to provide details such as the event’s subject, a description of your request, time, and location, along with the number of participants needed. Once all the information is filled in, your card will be posted for others to see and join."
+            "title": "Is Four a trading or investment platform?",
+            "description": "No. Four is not a trading or brokerage platform. It provides market data, charts, and a social environment for sharing insights. Any information available on the platform is for informational purposes only and should not be considered financial or investment advice."
         },
         {
-            "title": "Can I edit or delete a card after it’s been created?",
-            "description": "You can edit or delete a card as long as no one has requested to join. Once the first participant sends a request, you won’t be able to edit or delete the card."
+            "title": "How reliable is the market data shown in Four?",
+            "description": "Market data on Four is aggregated from third-party providers and may occasionally be delayed or contain inaccuracies. While we aim to provide high-quality data, users should not rely solely on this information for making financial decisions."
         },
         {
-            "title": "How do I view and join events or appointments?",
-            "description": "You can view events and appointments either on a map or in a table format. The platform also offers sorting options, allowing you to prioritize nearby participants or apply other filters to find the right event for you. Once you find an event you’re interested in, you can click on it to see more details and send a request to join."
+            "title": "Who is responsible for the content shared by users?",
+            "description": "All content published on Four is created by users and reflects their personal opinions. Users are fully responsible for the accuracy and legality of their posts. Four does not verify or guarantee the correctness of user-generated content."
         },
         {
-            "title": "What happens after I send a request to join an event?",
-            "description": "After you send a request, the creator of the card can review it and decide whom to select. If you’re chosen, you’ll be able to coordinate with the card creator via chat to finalize the details."
+            "title": "Why do some posts require approval before being published?",
+            "description": "If a user uploads supporting documents (such as PDFs, videos, or analysis files), the content may go through an internal review process. This helps maintain content quality and reduce the spread of misleading or unsupported claims."
         },
         {
-            "title": "How do I communicate with other participants?",
-            "description": "Once you’re selected, you can only communicate with the card creator through chat. All further coordination will be done via them."
+            "title": "Can I delete or edit my personal data and content?",
+            "description": "Yes. Users can update their profile information and manage their content within the app. You may also request deletion of your account or personal data through support channels, subject to applicable policies and legal requirements."
         },
         {
-            "title": "How are participants selected for an event?",
-            "description": "The card creator reviews the received requests and selects participants based on various criteria such as  timing, the number of requests, the profiles of the applicants, and the content of the messages sent by the participants."
-        },
-        {
-            "title": "Can I cancel my participation in an event?",
-            "description": "After the card creator confirms your participation, you’ll communicate in a private chat room. If you can’t reach an agreement, either party can close the chat and cancel their participation."
-        },
-        {
-            "title": "What if no one responds to my card request?",
-            "description": "If no one responds to your card request, you can update the card with additional details. However, you cannot extend the request’s deadline. Once the card’s time expires, you can create a new card. Additionally, consider exploring other strategies to attract more participants."
-        },
-        {
-            "title": "Is there a way to rate or review participants?",
-            "description": "After the card creator confirms participation, both parties can rate each other in the chat room. If any misconduct occurs, they can report it to support directly through the chat page."
-        },
-        {
-            "title": "How does Four handle user privacy and data security?",
-            "description": "Four takes user privacy and data security very seriously. Personal data is encrypted and securely stored. Access to this data is restricted to authorized personnel only, and all interactions on the platform are conducted over secure channels. Additionally, Four complies with relevant data protection regulations to ensure user information is handled with the highest standards of security and confidentiality."
+            "title": "Is my personal information safe on Four?",
+            "description": "Four uses industry-standard security practices to protect user data. Your personal information is stored securely and is not shared with third parties except when required to provide services or comply with legal obligations."
         }
     ],
     "privacyTitle": "<normal>Privacy</normal> <extralight>Policy</extralight>",
     "privacies": [
         {
-            "title": "introduction",
-            "description": "At Four, your privacy and data security are of utmost importance to us. This Privacy Policy outlines how we collect, use, and protect your personal information."
+            "title": "Introduction",
+            "description": "At Four, your privacy and data security are of utmost importance to us. This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our platform, including its market data and social features."
         },
         {
             "title": "Information We Collect",
-            "description": " We collect information you provide directly to us, including your name, email address, phone number, and any other information you choose to share. We may also collect data on your interactions with the platform, such as event details and participation requests."
+            "description": "We collect information that you provide directly, including your name, email address, phone number (if provided), and profile details such as images or bio. In addition, we may collect content you create, including posts, images, and any supporting documents (such as PDFs or videos) uploaded within the platform. We also collect technical and usage data, including your interactions with market data, content engagement, device information, and log data."
         },
         {
             "title": "How We Use Your Information",
-            "description": "We use your information to facilitate your use of the platform, including managing event participation, sending notifications, and improving our services. Your information may also be used for customer support and to communicate with you about important updates."
+            "description": "We retain your personal information only for as long as necessary to provide our services, comply with legal obligations, resolve disputes, and enforce our agreements. User-generated content may remain on the platform unless deleted by the user or removed in accordance with our policies."
+        },
+        {
+            "title": "User-Generated Content and Visibility",
+            "description": "We use your information to provide and improve our services, including enabling account access, displaying personalized market data, managing and publishing user-generated content, and facilitating interactions within the social platform. Your information may also be used to send notifications, provide customer support, ensure platform security, and communicate important updates or changes."
         },
         {
             "title": "Data Security",
-            "description": "We implement robust security measures to protect your data from unauthorized access, loss, or disclosure. Your personal information is encrypted and stored securely."
+            "description": "We implement appropriate technical and organizational measures to protect your data against unauthorized access, loss, misuse, or alteration. Your personal information is stored securely, and where applicable, sensitive data is protected using encryption and secure storage practices."
         },
         {
-            "title": "Sharing Your Information",
-            "description": "We do not share your personal information with third parties except as necessary to provide our services, comply with legal obligations, or protect our rights. We may share aggregated, non-identifiable data for analysis and improvement of our platform."
+            "title": "Sharing of Information",
+            "description": "We do not sell or rent your personal information to third parties. Your data may be shared only in the following cases: when necessary to provide core platform services (such as infrastructure or analytics providers), to comply with applicable laws and legal obligations, or to protect the rights, safety, and integrity of Four and its users. We may also share aggregated and anonymized data for analytical and improvement purposes."
+        },
+        {
+            "title": "Cookies and Usage Data",
+            "description": "Four may use cookies or similar technologies to enhance user experience, analyze usage patterns, and improve platform performance. This data helps us understand how users interact with both the market and social features."
         },
         {
             "title": "Your Rights",
-            "description": "You have the right to access, correct, or delete your personal information. You can also opt-out of receiving promotional communications from us."
+            "description": "You have the right to access, update, or delete your personal information, subject to applicable legal requirements. You may also opt out of receiving non-essential communications from us. Requests related to your data can be submitted through official support channels."
+        },
+        {
+            "title": "Data Retention",
+            "description": "We retain your personal information only for as long as necessary to provide our services, comply with legal obligations, resolve disputes, and enforce our agreements. User-generated content may remain on the platform unless deleted by the user or removed in accordance with our policies."
+        },
+        {
+            "title": "Third-Party Services",
+            "description": "Certain features within Four, including market data, may rely on third-party service providers. While we take reasonable steps to work with trusted providers, we are not responsible for the privacy practices of such third parties."
         },
         {
             "title": "Changes to This Policy",
-            "description": "We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date."
+            "description": "We may update this Privacy Policy from time to time. Any changes will be communicated through the platform, and continued use of Four after such updates constitutes acceptance of the revised policy."
         },
         {
             "title": "Contact Us",
@@ -552,44 +552,64 @@
             "description": "Welcome to Four! By using our platform, you agree to the following terms and conditions. Please read them carefully."
         },
         {
+            "title": "Definitions and Nature of Services",
+            "description": "Four is a platform that provides digital asset market information as well as a content-based social network. Users can access data related to tokens, charts, and analytical insights, and can also create or view textual, visual, and analytical content. All services are provided solely for informational and social purposes and do not constitute financial or investment advice."
+        },
+        {
             "title": "Acceptance of Terms",
-            "description": "By accessing or using Four, you agree to comply with and be bound by these Terms of Service and our Privacy Policy. If you do not agree with any part of these terms, you should not use our platform."
+            "description": "By using Four, the user acknowledges that they have read, understood, and fully accepted these Terms and Conditions. If the user does not agree with any part of these terms, they must refrain from using the services."
         },
         {
-            "title": "Use of the Platform",
-            "description": "You agree to use Four only for lawful purposes and in accordance with these terms. You must not:  Use the platform in any way that may damage, disable, overburden, or impair our services. Engage in any activity that interferes with or disrupts the platform or its servers. Use automated systems to access the platform without authorization."
+            "title": "Account Registration",
+            "description": "Users may register and create an account using their email address. The user is required to provide accurate and valid information and is solely responsible for maintaining the confidentiality of their login credentials and for all activities conducted under their account."
         },
         {
-            "title": "Account Responsibility",
-            "description": "You are responsible for maintaining the confidentiality of your account information, including your username and password. You agree to notify us immediately of any unauthorized use of your account."
+            "title": "User Profile",
+            "description": "Users may complete or update their profile information, including first name, last name, and profile image. The accuracy of the provided information is the user’s responsibility, and Four reserves the right to modify or restrict accounts containing inaccurate or inappropriate information."
         },
         {
-            "title": "Content and Conduct",
-            "description": "You are solely responsible for the content you create and share on Four. You must ensure that your content complies with Canadian laws and does not infringe on the rights of others. Any illegal or harmful content will be dealt with according to Canadian law. Four is not responsible for such content but will take action by blocking users who report it."
+            "title": "Use of Market Data",
+            "description": "The market data provided within Four, including prices, charts, and analytical information, is sourced from third-party providers and may be subject to delays or inaccuracies. This information is for informational purposes only and should not be relied upon for making financial or investment decisions. The user assumes full responsibility for any use of such data."
         },
         {
-            "title": "Intellectual Property",
-            "description": "All content and materials provided on Four are the property of Four or its licensors. You may not reproduce, distribute, or create derivative works from any content without prior written permission."
+            "title": "Nature of Social Content",
+            "description": "The social section of Four allows users to view and publish content. All content published by users reflects their personal opinions and does not necessarily represent the views of Four. Four does not guarantee the accuracy, completeness, or reliability of such content."
         },
         {
-            "title": "Termination",
-            "description": "We reserve the right to suspend or terminate your account and access to Four at our sole discretion, without notice, if you violate these terms or for any other reason."
+            "title": "User Content and Submission",
+            "description": "Users may publish textual or image-based posts and may optionally upload supporting documents such as text files, PDFs, or videos to substantiate their analysis or claims. If such supporting documents are submitted, the content will be reviewed by the administration team and will only be published upon approval. The user bears full responsibility for all content submitted, including its accuracy, legality, and compliance with applicable laws and third-party rights."
         },
         {
-            "title": "Limitation of Liability",
-            "description": "Four is provided as is and as available without any warranties of any kind. We are not liable for any damages or losses arising from your use of the platform."
+            "title": "Content Policy and Restrictions",
+            "description": "Users agree not to publish any content that is unlawful, misleading, offensive, abusive, or in violation of the rights of others or applicable laws. Four reserves the right to remove any content or restrict user access in case of violations."
         },
         {
-            "title": "Changes to Terms",
-            "description": "We may update these Terms of Service from time to time. Any changes will be posted on this page with an updated revision date. Your continued use of Four constitutes your acceptance of the revised terms."
+            "title": "Content Ownership",
+            "description": "Ownership of user-generated content remains with the user. However, by publishing content on Four, the user grants Four a non-exclusive license to display, store, and process such content within the scope of its services."
         },
         {
-            "title": "Governing Law",
-            "description": "These terms are governed by and construed in accordance with the laws of Canada. Any disputes arising under these terms shall be resolved in the courts of Canada."
+            "title": "User Interactions",
+            "description": "Any interactions between users, including reliance on content, communications, or decisions made based on posted information, are solely the responsibility of the users involved. Four bears no responsibility for the outcomes of such interactions."
         },
         {
-            "title": "Disclaimer of Responsibility",
-            "description": "Four is not responsible for the execution of events, disputes, issues, or any inappropriate behavior by users. The platform serves solely as a means of connection and does not guarantee user conduct. It is your responsibility to assess users based on their ratings, history, and profiles. Four disclaims any liability for issues arising from user interactions."
+            "title": "Privacy",
+            "description": "User information, including email and profile data, will be kept confidential and will not be shared with third parties except as required by applicable laws or upon request by authorized legal authorities. Use of the services constitutes acceptance of these conditions."
+        },
+        {
+            "title": "Account Security",
+            "description": "Users are responsible for safeguarding their account credentials. Any unauthorized access resulting from the user’s negligence is the user’s responsibility. Four reserves the right to take appropriate security measures, including restricting access, in case of suspicious activity."
+        },
+        {
+            "title": "Disclaimer of Liability",
+            "description": "Four makes no warranties regarding the accuracy of market data or user-generated content. The platform shall not be held liable for any financial losses or decisions made based on the information or content available within the platform."
+        },
+        {
+            "title": "Suspension or Termination",
+            "description": "Four reserves the right to suspend or terminate user accounts, temporarily or permanently, in cases of violation of these terms, suspicious activity, or upon request by legal authorities."
+        },
+        {
+            "title": "Amendments",
+            "description": "Four reserves the right to modify or update these Terms and Conditions at any time. Continued use of the services constitutes acceptance of the revised terms."
         },
         {
             "title": "Contact Us",
@@ -664,7 +684,7 @@
         "getIOS": "https://",
         "getAndroid": "https://",
         "home": {
-            "title": "<normal>Make new friends & explore with</normal> <black>FOUR</black>"
+            "title": "<normal>Explore Crypto Market & Make new friends with</normal> <black>FOUR</black>"
         }
     },
     "privacyLastUpdatedDate": "Last update: 2026-04-07",

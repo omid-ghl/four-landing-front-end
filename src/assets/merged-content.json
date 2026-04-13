@@ -4,19 +4,19 @@
     "splashBanner": "Meet with your Happiness",
     "startDate": "Start now",
     "loginToAcc": "Login to account",
-    "dontHaveAnAcc": "I don't have an account",
+    "dontHaveAnAcc": "I don’t have an account",
     "invalid_phone": "Phone number is not validated",
     "field_mandatory": "* Field is mandatory",
     "invalid_email": "Email is not validated",
     "password_too_short": "Password is too short",
     "suggestedNames": "Some username suggestions:",
     "GetStarted": {
-        "title1": "Discover where your story begins.",
-        "desc1": "Join us to discover your ideal partner and ignite the sparks of romance in your journey.",
-        "title2": "Find your Canadian love online!",
-        "desc2": "Looking for a romantic partner? Join the tiknik community and find your perfect match!",
-        "title3": "Choose your partners of the same interests.",
-        "desc3": "Partner up with those who share your interests.Join the tiknik now."
+        "title1": "Find the Perfect Match for Your Event",
+        "desc1": "Easily find and connect with the best people for your events. Four makes it simple.",
+        "title2": "Seamless Connections for Every Occasion",
+        "desc2": "Quickly connect with others for sports, meetups, and more. Four makes organizing easy.",
+        "title3": "Simplify Your Social Life with Four",
+        "desc3": "Organize and join events easily. Four makes connecting with others straightforward."
     },
     "next": "Next",
     "cancel": "Cancel",
@@ -40,7 +40,7 @@
     "resetPassOTPTitle": "Verification code OTP",
     "resetPassOTPDesc": "Please enter code we just send to",
     "edit": "Edit",
-    "didntReceiveCode": "Didn't receive code?",
+    "didntReceiveCode": "Didn’t receive code?",
     "resendCode": "Resend code",
     "continue": "Continue",
     "verify": "Verify",
@@ -57,7 +57,7 @@
     "socialLog": "Sign up with {{network}}",
     "congratulations": "Congratulations",
     "regSuccessful": "Register Successful!",
-    "regModalBtn": "Did’t go! let's go",
+    "regModalBtn": "Did’t go! let’s go",
     "whatsYourName": "Whats your name?",
     "checkNameDesc": "Create a unique nickname that represents you. it’s how others will know and remember you.",
     "nickName": "Nick Name",
@@ -65,7 +65,7 @@
     "notice": "notice ",
     "nameNotice": "This is how it’ll appear on your profile. ",
     "cantChange": "Can’t change it later.",
-    "birthDate": "When's your birthday?",
+    "birthDate": "When’s your birthday?",
     "birthDateDesc": "Tell us your birthdate. your profile does not display your birthdate, only your age.",
     "yearsOld": "years old",
     "redirectToNext": "You will be automate directed to next",
@@ -85,7 +85,7 @@
     "done": "Done",
     "search": "Search ... ",
     "maybeLater": "Maybe later",
-    "sureLike": "Sure, I'd like that",
+    "sureLike": "Sure, I’d like that",
     "allowLocTitle": "Allow your location",
     "allowLocDesc": "We will need your location to give you better experience.",
     "allowLocationModal": "Allow your location",
@@ -93,7 +93,7 @@
     "enable": "Enable",
     "later": "Later",
     "addPhotoOrVidTitle": "Add Your Photos",
-    "addPhotoOrVidDesc": "We'd love to see you. Upload a photo for your dating journey. Let’s add 2 to start.",
+    "addPhotoOrVidDesc": "We’d love to see you. Upload a photo for your dating journey. Let’s add 2 to start.",
     "smartPhotoTitle": "Smart photo",
     "smartPhotoDesc": "Smart photo continuously test all your profile photos and picks the best one to show first.",
     "unsureWhichPhoto": "Unsure which photos work?",
@@ -172,7 +172,7 @@
         "interests": "Interests",
         "my_cards": "My cards"
     },
-    "safetyRules": "Safety & Privacy of your request is important. You can manage the information you don't want to display.",
+    "safetyRules": "Safety & Privacy of your request is important. You can manage the information you don’t want to display.",
     "request": "Request",
     "messageSent": "Your message is sent",
     "messageSentDesc": "You can view and track it in the communication section.",
@@ -199,7 +199,7 @@
     "whoWantsDisconnect": "{{person}} wants to end the chat with you.",
     "disconnectInfo": "Because {{person}} is the owner of the chat, this chat was unilaterally closed by Sara. You can apply again. If confirmed, the chat will open again.",
     "rateTo": "Rate to {{person}}",
-    "rateDesc": "You can rate your and {{person}}'s chat. Your rating will be protected and only Sara will see.",
+    "rateDesc": "You can rate your and {{person}}’s chat. Your rating will be protected and only Sara will see.",
     "selectRate": "Select rate",
     "submit": "Submit",
     "sendPics": "Send pictures",
@@ -256,7 +256,7 @@
     "addNewTagPlaceholder": "Type and Enter other for request",
     "reqSafetyHeader": "Safety Centre",
     "safetyRulesSubj": "Safety & Privacy",
-    "safetyRulesdsc": " of your request is important. You can manage the information you don't want to display.",
+    "safetyRulesdsc": " of your request is important. You can manage the information you don’t want to display.",
     "dealSubj": "Pay/Receive money ",
     "dealDsc": "Will you be paying or getting paid for your request?",
     "money": "Money",
@@ -361,7 +361,7 @@
     "withinYourLoc": "within your location {{length}} km",
     "notifications": "Notifications",
     "validation": {
-        "alphabetsAndUnderscoresOnly": "Only letters, numbers, and underscores are allowed.",
+        "alphabetsAndUnderscoresOnly": "Only alphabets and underscore are allowed",
         "tagMinChars": "Tag must be at least 2 characters.",
         "tagMaxChars": "Tag must be at most 15 characters."
     },
@@ -370,12 +370,12 @@
     "hasRequestMessage": "Has a message request",
     "noChatsFound": "No chats found!",
     "noResultFound": "No result found!",
-    "aboutUs": "At Four, we believe in the power of connection. Our platform was created to help people come together—whether for social events, sports, or any occasion where collaboration matters. We understand that finding the right people for your activities can be a challenge, and that's why Four exists: to make it easier, faster, and more convenient to organize and participate in events with like-minded individuals.\nOur mission is simple: to bring people together by offering a seamless way to create and join events or appointments. Whether you need extra players for a game, want to organize a meet-up, or are just looking to connect with others for a common interest, Four is here to make it happen.\nWe prioritize user safety and privacy, offering a secure space for you to meet new people, while providing tools to help you make informed decisions about who you interact with. Your trust is important to us, and we are constantly working to improve and innovate the platform to ensure the best experience for our users.\nJoin the Four community today and discover how easy it can be to connect with others, organize events, and make meaningful connections.",
+    "aboutUs": "At Four, we believe in the power of connection. Our platform was created to help people come together—whether for social events, sports, or any occasion where collaboration matters. We understand that finding the right people for your activities can be a challenge, and that’s why Four exists: to make it easier, faster, and more convenient to organize and participate in events with like-minded individuals.\nOur mission is simple: to bring people together by offering a seamless way to create and join events or appointments. Whether you need extra players for a game, want to organize a meet-up, or are just looking to connect with others for a common interest, Four is here to make it happen.\nWe prioritize user safety and privacy, offering a secure space for you to meet new people, while providing tools to help you make informed decisions about who you interact with. Your trust is important to us, and we are constantly working to improve and innovate the platform to ensure the best experience for our users.\nJoin the Four community today and discover how easy it can be to connect with others, organize events, and make meaningful connections.",
     "chatClosed": "❌ Chat is Closed!",
     "chatClosedLive": "Chat closed",
     "reqAgain": "Request agin",
     "images": "{{count}} images",
-    "no_notifications": "There isn't any notification to show!",
+    "no_notifications": "There isn’t any notification to show!",
     "noChatTitle": "have not request and message",
     "noChatDsc": "Go to discover or swipe and conect by other people.",
     "youAreUsinglatestVersion": "you are using the latest version.",
@@ -399,7 +399,7 @@
     "singleEmptySettingPlaceHolder": "Select",
     "logoutTitle": "Logout from the app",
     "logoutDescription": "You are about to Logout the app & will need to re-enter your account information again, Are you sure?",
-    "logout": "YES, I'M SURE",
+    "logout": "YES, I’M SURE",
     "startDateSchedule": "Start Date",
     "endDateSchedule": "End Date",
     "nearestSort": "Nearest by location",
@@ -454,66 +454,250 @@
             },
             "description": {
                 "title": "Description",
-                "placeholder": "Lorem ipsum dolor sit amet, consectetur"
+                "placeholder": "Write your message or describe your issue."
             },
             "submit": {
                 "title": "SEND"
             }
-        }
+        },
+        "description": "We appreciate your feedback and are here to assist with any questions or concerns. Please complete the form below, and our support team will respond promptly. By submitting, you agree to our Terms of Service and Privacy Policy. Your privacy is important to us, and your information will not be shared with third parties."
     },
     "faqTitle": "<extralight>frequently</extralight> <normal>asked</normal> <black>questions</black>",
-    "faqs": "[{\"title\":\"How Does it Work?\",\"description\":\"Four lets you create \\\"cards\\\" for events, specific needs, or appointments, including details like time, location, and the number of participants needed. Others can view these cards and send requests to join. The person who created the card reviews the requests and picks who they want. Once confirmed, the selected participants can chat to coordinate and agree on the details before joining the event or appointment.\"},{\"title\":\"How do I create a card for an event or appointment?\",\"description\":\"Creating a card is simple! On the main screen, select the \\\"New Request\\\" option. You'll need to provide details such as the event's subject, a description of your request, time, and location, along with the number of participants needed. Once all the information is filled in, your card will be posted for others to see and join.\"},{\"title\":\"Can I edit or delete a card after it’s been created?\",\"description\":\"You can edit or delete a card as long as no one has requested to join. Once the first participant sends a request, you won’t be able to edit or delete the card.\"},{\"title\":\"How do I view and join events or appointments?\",\"description\":\"You can view events and appointments either on a map or in a table format. The platform also offers sorting options, allowing you to prioritize nearby participants or apply other filters to find the right event for you. Once you find an event you're interested in, you can click on it to see more details and send a request to join.\"},{\"title\":\"What happens after I send a request to join an event?\",\"description\":\"After you send a request, the creator of the card can review it and decide whom to select. If you’re chosen, you'll be able to coordinate with the card creator via chat to finalize the details.\"},{\"title\":\"How do I communicate with other participants?\",\"description\":\"Once you're selected, you can only communicate with the card creator through chat. All further coordination will be done via them.\"},{\"title\":\"How are participants selected for an event?\",\"description\":\"The card creator reviews the received requests and selects participants based on various criteria such as  timing, the number of requests, the profiles of the applicants, and the content of the messages sent by the participants.\"},{\"title\":\"Can I cancel my participation in an event?\",\"description\":\"After the card creator confirms your participation, you’ll communicate in a private chat room. If you can't reach an agreement, either party can close the chat and cancel their participation.\"},{\"title\":\"What if no one responds to my card request?\",\"description\":\"If no one responds to your card request, you can update the card with additional details. However, you cannot extend the request's deadline. Once the card's time expires, you can create a new card. Additionally, consider exploring other strategies to attract more participants.\"},{\"title\":\"Is there a way to rate or review participants?\",\"description\":\"After the card creator confirms participation, both parties can rate each other in the chat room. If any misconduct occurs, they can report it to support directly through the chat page.\"},{\"title\":\"How does Four handle user privacy and data security?\",\"description\":\"Four takes user privacy and data security very seriously. Personal data is encrypted and securely stored. Access to this data is restricted to authorized personnel only, and all interactions on the platform are conducted over secure channels. Additionally, Four complies with relevant data protection regulations to ensure user information is handled with the highest standards of security and confidentiality.\"}]",
+    "faqs": [
+        {
+            "title": "How does Four work?",
+            "description": "To get started, users can create an account using their email and complete their profile information. Once logged in, users gain full access to both the social and market sections of the platform. The market section (including charts and token data) can be viewed without logging in, but publishing posts or interacting with the social features requires an active account and login."
+        },
+        {
+            "title": "Is Four a trading or investment platform?",
+            "description": "No. Four is not a trading or brokerage platform. It provides market data, charts, and a social environment for sharing insights. Any information available on the platform is for informational purposes only and should not be considered financial or investment advice."
+        },
+        {
+            "title": "How reliable is the market data shown in Four?",
+            "description": "Market data on Four is aggregated from third-party providers and may occasionally be delayed or contain inaccuracies. While we aim to provide high-quality data, users should not rely solely on this information for making financial decisions."
+        },
+        {
+            "title": "Who is responsible for the content shared by users?",
+            "description": "All content published on Four is created by users and reflects their personal opinions. Users are fully responsible for the accuracy and legality of their posts. Four does not verify or guarantee the correctness of user-generated content."
+        },
+        {
+            "title": "Why do some posts require approval before being published?",
+            "description": "If a user uploads supporting documents (such as PDFs, videos, or analysis files), the content may go through an internal review process. This helps maintain content quality and reduce the spread of misleading or unsupported claims."
+        },
+        {
+            "title": "Can I delete or edit my personal data and content?",
+            "description": "Yes. Users can update their profile information and manage their content within the app. You may also request deletion of your account or personal data through support channels, subject to applicable policies and legal requirements."
+        },
+        {
+            "title": "Is my personal information safe on Four?",
+            "description": "Four uses industry-standard security practices to protect user data. Your personal information is stored securely and is not shared with third parties except when required to provide services or comply with legal obligations."
+        }
+    ],
     "privacyTitle": "<normal>Privacy</normal> <extralight>Policy</extralight>",
-    "privacies": "[{\"title\":\"introduction\",\"description\":\"At Four, your privacy and data security are of utmost importance to us. This Privacy Policy outlines how we collect, use, and protect your personal information.\"},{\"title\":\"Information We Collect\",\"description\":\" We collect information you provide directly to us, including your name, email address, phone number, and any other information you choose to share. We may also collect data on your interactions with the platform, such as event details and participation requests.\"},{\"title\":\"How We Use Your Information\",\"description\":\"We use your information to facilitate your use of the platform, including managing event participation, sending notifications, and improving our services. Your information may also be used for customer support and to communicate with you about important updates.\"},{\"title\":\"Data Security\",\"description\":\"We implement robust security measures to protect your data from unauthorized access, loss, or disclosure. Your personal information is encrypted and stored securely.\"},{\"title\":\"Sharing Your Information\",\"description\":\"We do not share your personal information with third parties except as necessary to provide our services, comply with legal obligations, or protect our rights. We may share aggregated, non-identifiable data for analysis and improvement of our platform.\"},{\"title\":\"Your Rights\",\"description\":\"You have the right to access, correct, or delete your personal information. You can also opt-out of receiving promotional communications from us.\"},{\"title\":\"Changes to This Policy\",\"description\":\"We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.\"},{\"title\":\"Contact Us\",\"description\":\"If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [support@four.io].\"}]",
+    "privacies": [
+        {
+            "title": "Introduction",
+            "description": "At Four, your privacy and data security are of utmost importance to us. This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our platform, including its market data and social features."
+        },
+        {
+            "title": "Information We Collect",
+            "description": "We collect information that you provide directly, including your name, email address, phone number (if provided), and profile details such as images or bio. In addition, we may collect content you create, including posts, images, and any supporting documents (such as PDFs or videos) uploaded within the platform. We also collect technical and usage data, including your interactions with market data, content engagement, device information, and log data."
+        },
+        {
+            "title": "How We Use Your Information",
+            "description": "We retain your personal information only for as long as necessary to provide our services, comply with legal obligations, resolve disputes, and enforce our agreements. User-generated content may remain on the platform unless deleted by the user or removed in accordance with our policies."
+        },
+        {
+            "title": "User-Generated Content and Visibility",
+            "description": "We use your information to provide and improve our services, including enabling account access, displaying personalized market data, managing and publishing user-generated content, and facilitating interactions within the social platform. Your information may also be used to send notifications, provide customer support, ensure platform security, and communicate important updates or changes."
+        },
+        {
+            "title": "Data Security",
+            "description": "We implement appropriate technical and organizational measures to protect your data against unauthorized access, loss, misuse, or alteration. Your personal information is stored securely, and where applicable, sensitive data is protected using encryption and secure storage practices."
+        },
+        {
+            "title": "Sharing of Information",
+            "description": "We do not sell or rent your personal information to third parties. Your data may be shared only in the following cases: when necessary to provide core platform services (such as infrastructure or analytics providers), to comply with applicable laws and legal obligations, or to protect the rights, safety, and integrity of Four and its users. We may also share aggregated and anonymized data for analytical and improvement purposes."
+        },
+        {
+            "title": "Cookies and Usage Data",
+            "description": "Four may use cookies or similar technologies to enhance user experience, analyze usage patterns, and improve platform performance. This data helps us understand how users interact with both the market and social features."
+        },
+        {
+            "title": "Your Rights",
+            "description": "You have the right to access, update, or delete your personal information, subject to applicable legal requirements. You may also opt out of receiving non-essential communications from us. Requests related to your data can be submitted through official support channels."
+        },
+        {
+            "title": "Data Retention",
+            "description": "We retain your personal information only for as long as necessary to provide our services, comply with legal obligations, resolve disputes, and enforce our agreements. User-generated content may remain on the platform unless deleted by the user or removed in accordance with our policies."
+        },
+        {
+            "title": "Third-Party Services",
+            "description": "Certain features within Four, including market data, may rely on third-party service providers. While we take reasonable steps to work with trusted providers, we are not responsible for the privacy practices of such third parties."
+        },
+        {
+            "title": "Changes to This Policy",
+            "description": "We may update this Privacy Policy from time to time. Any changes will be communicated through the platform, and continued use of Four after such updates constitutes acceptance of the revised policy."
+        },
+        {
+            "title": "Contact Us",
+            "description": "If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [support@four.io]."
+        }
+    ],
     "termsAndConditionsLastUpdatedDate": "Last update: 2024-09-11",
     "termsTitle": "<extralight>Terms of</extralight> <normal>Service</normal>",
-    "terms": "[{\"title\":\"introduction\",\"description\":\"Welcome to Four! By using our platform, you agree to the following terms and conditions. Please read them carefully.\"},{\"title\":\"Acceptance of Terms\",\"description\":\"By accessing or using Four, you agree to comply with and be bound by these Terms of Service and our Privacy Policy. If you do not agree with any part of these terms, you should not use our platform.\"},{\"title\":\"Use of the Platform\",\"description\":\"You agree to use Four only for lawful purposes and in accordance with these terms. You must not:  Use the platform in any way that may damage, disable, overburden, or impair our services. Engage in any activity that interferes with or disrupts the platform or its servers. Use automated systems to access the platform without authorization.\"},{\"title\":\"Account Responsibility\",\"description\":\"You are responsible for maintaining the confidentiality of your account information, including your username and password. You agree to notify us immediately of any unauthorized use of your account.\"},{\"title\":\"Content and Conduct\",\"description\":\"You are solely responsible for the content you create and share on Four. You must ensure that your content complies with Canadian laws and does not infringe on the rights of others. Any illegal or harmful content will be dealt with according to Canadian law. Four is not responsible for such content but will take action by blocking users who report it.\"},{\"title\":\"Intellectual Property\",\"description\":\"All content and materials provided on Four are the property of Four or its licensors. You may not reproduce, distribute, or create derivative works from any content without prior written permission.\"},{\"title\":\"Termination\",\"description\":\"We reserve the right to suspend or terminate your account and access to Four at our sole discretion, without notice, if you violate these terms or for any other reason.\"},{\"title\":\"Limitation of Liability\",\"description\":\"Four is provided \\\"as is\\\" and \\\"as available\\\" without any warranties of any kind. We are not liable for any damages or losses arising from your use of the platform.\"},{\"title\":\"Changes to Terms\",\"description\":\"We may update these Terms of Service from time to time. Any changes will be posted on this page with an updated revision date. Your continued use of Four constitutes your acceptance of the revised terms.\"},{\"title\":\"Governing Law\",\"description\":\"These terms are governed by and construed in accordance with the laws of Canada. Any disputes arising under these terms shall be resolved in the courts of Canada.\"},{\"title\":\"Disclaimer of Responsibility\",\"description\":\"Four is not responsible for the execution of events, disputes, issues, or any inappropriate behavior by users. The platform serves solely as a means of connection and does not guarantee user conduct. It is your responsibility to assess users based on their ratings, history, and profiles. Four disclaims any liability for issues arising from user interactions.\"},{\"title\":\"Contact Us\",\"description\":\"If you have any questions or concerns about these Terms of Service, please contact us at [support@four.io].\"}]",
-    "socials": "[{\"type\":\"telegram\",\"link\":\"https://\"},{\"type\":\"instagram\",\"link\":\"https://\"},{\"type\":\"facebook\",\"link\":\"https://\"},{\"type\":\"youtube\",\"link\":\"https://\"},{\"type\":\"whatsapp\",\"link\":\"https://\"}]",
-    "GetStarted.desc3": "Organize and join events easily. Four makes connecting with others straightforward.",
-    "landing.download.ios.platform": "iOS",
-    "landing.download.pwa.device": "WEB",
-    "contacts.form.description.title": "Description",
-    "GetStarted.desc2": "Quickly connect with others for sports, meetups, and more. Four makes organizing easy.",
-    "privacy.location": "Current location",
-    "GetStarted.title3": "Simplify Your Social Life with Four",
-    "contacts.form.description.placeholder": "Write your message or describe your issue.",
-    "landing.getPWA": "https://",
-    "privacy.gallery": "Photo gallery",
-    "landing.testimonial.testimonials": "[{\"image\":\"/images/users/adrian-sinclair.jpg\",\"rate\":\"4\",\"description\":\"\\\"Four has revolutionized how I organize events. It’s simple to post my needs and get quick responses. The user-friendly interface and location-based sorting make it incredibly effective. Highly recommended for easy event planning!\\\"\",\"name\":\"Adrian Sinclair\"},{\"image\":\"/images/users/eloise-harrington.jpg\",\"rate\":\"3\",\"description\":\"\\\"Four has made managing event cards effortless. The direct communication with participants helps coordinate details smoothly. It’s become my favorite app for organizing events.\\\"\",\"name\":\"Eloise Harrington\"},{\"image\":\"/images/users/thaddeus-moreau.jpg\",\"rate\":\"3.5\",\"description\":\"\\\"Four is perfect for organizing sports and social gatherings. Seeing nearby participants and using the rating system is fantastic. It’s more than an app; it’s a community builder.\\\"\",\"name\":\"Thaddeus Moreau\"},{\"image\":\"/images/users/seraphina-caldwell.jpg\",\"rate\":\"4.5\",\"description\":\"\\\"Four makes connecting with like-minded people easy. Whether it’s for a game or a casual meetup, it simplifies the process. The clean interface and helpful support team are bonuses.\\\"\",\"name\":\"Seraphina Caldwell\"},{\"image\":\"/images/users/isolde-montgomery.jpg\",\"rate\":\"5\",\"description\":\"\\\"Four has been amazing for my dating life. It’s easy to find people with similar interests and values. The location and interest filters help me make meaningful connections, and the chat feature is great for getting to know matches before meeting in person. It’s made dating simpler and more enjoyable.\\\"\",\"name\":\"Isolde Montgomery\"}]",
-    "validation.tagMaxChars": "Tag must be at most 15 characters.",
-    "privacy.gender": "My gender",
-    "contacts.title": "<normal>contact</normal> <extralight>us</extralight>",
-    "privacy.avatar": "Profile picture",
-    "landing.download.android.device": "Mobile/Tablet",
-    "validation.alphabetsAndUnderscoresOnly": "Only alphabets and underscore are allowed",
-    "privacy.other": "Other my Requests",
-    "GetStarted.title2": "Seamless Connections for Every Occasion",
-    "privacy.rate": "Rate & Review",
-    "landing.download.android.platform": "ANDROID",
-    "validation.tagMinChars": "Tag must be at least 2 characters.",
-    "landing.SEO.index.description": "Discover where your story begins. Choose your partners of the same interests.",
-    "contacts.form.nickname.title": "Nickname",
+    "terms": [
+        {
+            "title": "introduction",
+            "description": "Welcome to Four! By using our platform, you agree to the following terms and conditions. Please read them carefully."
+        },
+        {
+            "title": "Definitions and Nature of Services",
+            "description": "Four is a platform that provides digital asset market information as well as a content-based social network. Users can access data related to tokens, charts, and analytical insights, and can also create or view textual, visual, and analytical content. All services are provided solely for informational and social purposes and do not constitute financial or investment advice."
+        },
+        {
+            "title": "Acceptance of Terms",
+            "description": "By using Four, the user acknowledges that they have read, understood, and fully accepted these Terms and Conditions. If the user does not agree with any part of these terms, they must refrain from using the services."
+        },
+        {
+            "title": "Account Registration",
+            "description": "Users may register and create an account using their email address. The user is required to provide accurate and valid information and is solely responsible for maintaining the confidentiality of their login credentials and for all activities conducted under their account."
+        },
+        {
+            "title": "User Profile",
+            "description": "Users may complete or update their profile information, including first name, last name, and profile image. The accuracy of the provided information is the user’s responsibility, and Four reserves the right to modify or restrict accounts containing inaccurate or inappropriate information."
+        },
+        {
+            "title": "Use of Market Data",
+            "description": "The market data provided within Four, including prices, charts, and analytical information, is sourced from third-party providers and may be subject to delays or inaccuracies. This information is for informational purposes only and should not be relied upon for making financial or investment decisions. The user assumes full responsibility for any use of such data."
+        },
+        {
+            "title": "Nature of Social Content",
+            "description": "The social section of Four allows users to view and publish content. All content published by users reflects their personal opinions and does not necessarily represent the views of Four. Four does not guarantee the accuracy, completeness, or reliability of such content."
+        },
+        {
+            "title": "User Content and Submission",
+            "description": "Users may publish textual or image-based posts and may optionally upload supporting documents such as text files, PDFs, or videos to substantiate their analysis or claims. If such supporting documents are submitted, the content will be reviewed by the administration team and will only be published upon approval. The user bears full responsibility for all content submitted, including its accuracy, legality, and compliance with applicable laws and third-party rights."
+        },
+        {
+            "title": "Content Policy and Restrictions",
+            "description": "Users agree not to publish any content that is unlawful, misleading, offensive, abusive, or in violation of the rights of others or applicable laws. Four reserves the right to remove any content or restrict user access in case of violations."
+        },
+        {
+            "title": "Content Ownership",
+            "description": "Ownership of user-generated content remains with the user. However, by publishing content on Four, the user grants Four a non-exclusive license to display, store, and process such content within the scope of its services."
+        },
+        {
+            "title": "User Interactions",
+            "description": "Any interactions between users, including reliance on content, communications, or decisions made based on posted information, are solely the responsibility of the users involved. Four bears no responsibility for the outcomes of such interactions."
+        },
+        {
+            "title": "Privacy",
+            "description": "User information, including email and profile data, will be kept confidential and will not be shared with third parties except as required by applicable laws or upon request by authorized legal authorities. Use of the services constitutes acceptance of these conditions."
+        },
+        {
+            "title": "Account Security",
+            "description": "Users are responsible for safeguarding their account credentials. Any unauthorized access resulting from the user’s negligence is the user’s responsibility. Four reserves the right to take appropriate security measures, including restricting access, in case of suspicious activity."
+        },
+        {
+            "title": "Disclaimer of Liability",
+            "description": "Four makes no warranties regarding the accuracy of market data or user-generated content. The platform shall not be held liable for any financial losses or decisions made based on the information or content available within the platform."
+        },
+        {
+            "title": "Suspension or Termination",
+            "description": "Four reserves the right to suspend or terminate user accounts, temporarily or permanently, in cases of violation of these terms, suspicious activity, or upon request by legal authorities."
+        },
+        {
+            "title": "Amendments",
+            "description": "Four reserves the right to modify or update these Terms and Conditions at any time. Continued use of the services constitutes acceptance of the revised terms."
+        },
+        {
+            "title": "Contact Us",
+            "description": "If you have any questions or concerns about these Terms of Service, please contact us at [support@four.io]."
+        }
+    ],
+    "socials": [
+        { "type": "telegram", "link": "https://" },
+        { "type": "instagram", "link": "https://" },
+        { "type": "facebook", "link": "https://" },
+        { "type": "youtube", "link": "https://" },
+        { "type": "whatsapp", "link": "https://" }
+    ],
+    "landing": {
+        "download": {
+            "ios": {
+                "platform": "iOS",
+                "device": "Mobile"
+            },
+            "pwa": {
+                "device": "WEB",
+                "platform": "PWA"
+            },
+            "android": {
+                "device": "Mobile/Tablet",
+                "platform": "ANDROID"
+            },
+            "title": "<bold>DOWNLOAD</bold>"
+        },
+        "getPWA": "https://",
+        "testimonial": {
+            "testimonials": [
+                {
+                    "image": "/images/users/adrian-sinclair.jpg",
+                    "rate": "4",
+                    "description": "Four has revolutionized how I organize events. It’s simple to post my needs and get quick responses. The user-friendly interface and location-based sorting make it incredibly effective. Highly recommended for easy event planning!",
+                    "name": "Adrian Sinclair"
+                },
+                {
+                    "image": "/images/users/eloise-harrington.jpg",
+                    "rate": "3",
+                    "description": "Four has made managing event cards effortless. The direct communication with participants helps coordinate details smoothly. It’s become my favorite app for organizing events.",
+                    "name": "Eloise Harrington"
+                },
+                {
+                    "image": "/images/users/thaddeus-moreau.jpg",
+                    "rate": "3.5",
+                    "description": "Four is perfect for organizing sports and social gatherings. Seeing nearby participants and using the rating system is fantastic. It’s more than an app; it’s a community builder.",
+                    "name": "Thaddeus Moreau"
+                },
+                {
+                    "image": "/images/users/seraphina-caldwell.jpg",
+                    "rate": "4.5",
+                    "description": "Four makes connecting with like-minded people easy. Whether it’s for a game or a casual meetup, it simplifies the process. The clean interface and helpful support team are bonuses.",
+                    "name": "Seraphina Caldwell"
+                },
+                {
+                    "image": "/images/users/isolde-montgomery.jpg",
+                    "rate": "5",
+                    "description": "Four has been amazing for my dating life. It’s easy to find people with similar interests and values. The location and interest filters help me make meaningful connections, and the chat feature is great for getting to know matches before meeting in person. It’s made dating simpler and more enjoyable.",
+                    "name": "Isolde Montgomery"
+                }
+            ],
+            "title": "testimonial"
+        },
+        "SEO": {
+            "index": {
+                "description": "Discover where your story begins. Choose your partners of the same interests.",
+                "titlePrefix": "Landing"
+            }
+        },
+        "getIOS": "https://",
+        "getAndroid": "https://",
+        "home": {
+            "title": "<normal>Explore Crypto Market & Make new friends with</normal> <black>FOUR</black>"
+        }
+    },
     "privacyLastUpdatedDate": "Last update: 2026-04-07",
-    "contacts.description": "We appreciate your feedback and are here to assist with any questions or concerns. Please complete the form below, and our support team will respond promptly. By submitting, you agree to our Terms of Service and Privacy Policy. Your privacy is important to us, and your information will not be shared with third parties.",
     "petSettingsReasonToGetDate": "Knowing if you have a pet allows us to pair you with people who are comfortable with or share similar experiences, making meetups more enjoyable for everyone involved.",
     "workoutSettingsReasonToGetDate": "Sharing your workout routine helps us connect you with people who have similar fitness goals, making it easier to plan active or health-oriented events together.",
     "notificationSettingItem6": "VIP Notifications",
-    "landing.testimonial.title": "testimonial",
-    "landing.getIOS": "https://",
-    "privacy.bio": "Biography",
-    "contacts.form.email.placeholder": "example@email.com",
-    "contacts.form.submit.title": "SEND",
-    "landing.getAndroid": "https://",
-    "contacts.form.nickname.placeholder": "john doe",
-    "GetStarted.desc1": "Easily find and connect with the best people for your events. Four makes it simple.",
-    "privacy.age": "My age",
-    "contacts.form.email.title": "Email Address",
-    "landing.SEO.index.titlePrefix": "Landing",
-    "landing.download.pwa.platform": "PWA",
-    "landing.download.title": "<bold>DOWNLOAD</bold>",
-    "GetStarted.title1": "Find the Perfect Match for Your Event",
-    "privacy.state": "State & city",
-    "privacy.phone": "Phone number",
-    "landing.home.title": "<normal>Make new friends & explore with</normal> <black>FOUR</black>",
-    "landing.download.ios.device": "Mobile"
+    "login": "login",
+    "mobile": "mobile",
+    "PRO": "PRO",
+    "backToThe": "Back to the {{client}}",
+    "subscriptionId": "Transaction number:",
+    "status": "status:",
+    "date": "date:",
+    "amount": "amount:",
+    "plan": "plan:"
 }
